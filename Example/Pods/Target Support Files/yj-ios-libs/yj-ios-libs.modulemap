@@ -1,0 +1,6 @@
+framework module yj_ios_libs {
+  umbrella header "yj-ios-libs-umbrella.h"
+
+  export *
+  module * { export * }
+}

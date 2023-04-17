@@ -1,0 +1,22 @@
+{
+  "name": "yj-ios-libs",
+  "version": "0.1.0",
+  "summary": "A short description of yj-ios-libs.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/邓晓文/yj-ios-libs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "邓晓文": "739116989@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/邓晓文/yj-ios-libs.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "yj-ios-libs/Classes/**/*"
+}
